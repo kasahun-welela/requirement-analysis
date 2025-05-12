@@ -89,3 +89,28 @@
   <li><strong>Reliability:</strong> The system should have an uptime of 99.9% and recover quickly from any failures.</li>
 </ul>
 
+# Use Case Diagrams.
+<h3>Objective</h3>
+<ul>
+  <li>Visual representation of interactions between users and the system.</li>
+</ul>
+
+<h3>What are Use Case Diagrams?</h3>
+<ul>
+  <li>Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).</li>
+</ul>
+
+<h3>Creating Use Case Diagrams:</h3>
+<ul>
+  <li>Identify actors (e.g., guest, registered user, admin).</li>
+  <li>Define use cases (e.g., search properties, book property, manage listings).</li>
+  <li>Draw interactions between actors and use cases.</li>
+</ul>
+
+<h3>Benefits of Use Case Diagrams:</h3>
+<ul>
+  <li>Provide a clear visual representation of system functionalities.</li>
+  <li>Help in identifying and organizing system requirements.</li>
+  <li>Facilitate communication among stakeholders and the development team.</li>
+</ul>
+<img src="/alx-booking-uc.png" alt="use case diagraM" />
